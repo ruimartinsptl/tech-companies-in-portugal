@@ -21,7 +21,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | :------ | :---------- | :-------- |
 | [AddCode](https://addcode-io.breezy.hr) [:rocket:](https://addcode-io.breezy.hr/#positions) | Software engineering. | `Porto` |
 | [Armis](http://www.armisgroup.com/) [:rocket:](http://www.armisgroup.com/ofertas-de-trabalho/) | Technology development and consultancy. | `Lisboa` `Porto` |
-| [Critical Software](https://www.criticalsoftware.com) [:rocket:](https://www.criticalsoftware.com/careers) | Mission and business-critical applications. | `Coimbra` `Lisboa`<br>`Porto` |
+| [Critical Software](https://www.criticalsoftware.com) [:rocket:](https://www.criticalsoftware.com/careers) [:mag_right:](https://www.glassdoor.com/Overview/Working-at-CRITICAL-Software-EI_IE243286.11,28.htm) | Mission and business-critical applications. | `Coimbra` `Lisboa`<br>`Porto` |
 | [Imaginary Cloud](https://www.imaginarycloud.com) [:rocket:](https://www.imaginarycloud.com/careers) | Web, mobile, development and design services. | `Lisboa` |
 | [KI labs](https://ki-labs.com/) [:rocket:](https://ki-labs.com/careers/) | Solve complex tech and business challenges for big corporations. | `Lisboa` |
 | [Kwanko](https://kwanko.com/) [:rocket:](https://www.kwanko.com/en/careers-join-kwanko-group-check-out-our-job-offers/#offres) | An International leader in Crossdevice Performance Marketing. | `Lisboa` |
@@ -75,7 +75,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-| [Feedzai](https://feedzai.com) [:rocket:](https://careers.feedzai.com) | Fraud detection platform to make commerce safe. | `Coimbra` `Lisboa`<br>`Porto` |
+| [Feedzai](https://feedzai.com) [:rocket:](https://careers.feedzai.com) [:mag_right:](https://www.glassdoor.com/Overview/Working-at-Feedzai-EI_IE744720.11,18.htm) | Fraud detection platform to make commerce safe. | `Coimbra` `Lisboa`<br>`Porto` |
 
 
 ## Multimedia :movie_camera:
